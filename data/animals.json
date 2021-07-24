@@ -137,6 +137,15 @@
         "hungry"
       ],
       "id": "13"
+    },
+    {
+      "name": "you",
+      "species": "fishy",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "14"
     }
   ]
 }
